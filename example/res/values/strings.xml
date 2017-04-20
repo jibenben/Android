@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 点击变换颜色 -->
+    <drawable name="color1">#339966</drawable>
+    <drawable name="color2">#ffffff</drawable>
+    <drawable name="color3">#ffffff</drawable>
+   <drawable name="student">@drawable/student</drawable>
+    <drawable name="course">@drawable/course</drawable>
+    <drawable name="my">@drawable/my</drawable>
+    <drawable name="order">@drawable/order</drawable>
+    <drawable name="student_on">@drawable/student_on</drawable>
+    <drawable name="course_on">@drawable/course_on</drawable>
+    <drawable name="my_on">@drawable/my_on</drawable>
+    <drawable name="order_on">@drawable/order_on</drawable>
+    <string name="hello">Hello World, JPush!</string>
+    <string name="app_name">好乐学</string>
+    <string name="tag_hint">Tag为大小写字母，数字，下划线,中文， 多个用以逗号分隔</string>
+    <string name="alias_hint">Alias为大小写字母，数字，下划线</string>
+    <string name="style_hint">style为数字</string>
+    <string name="error_style_empty">style不能为空</string>
+    <string name="error_alias_empty">alias不能为空</string>
+    <string name="error_tag_empty">tag不能为空</string>
+    <string name="error_tag_gs_empty">格式不对</string>
+    <string name="error_network">网络连接异常,初始化失败 请检查网络！</string>
+    <string name="logining">程序在后台执行, 请查看日志！</string>
+    <string name="setting_su">设置成功</string>
+</resources>
